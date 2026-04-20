@@ -177,9 +177,7 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 
 ---
 
-<p align="left">
-  <img src="fea433432ea9a98.webp" width="32" height="32" alt="Link sprite" />
-</p>
+## <img src="fea433432ea9a98.webp" width="64" height="64" style="vertical-align: middle; image-rendering: pixelated;" alt="Link sprite" /> Link to the Past terminal
 
 <p align="left">
   <img src="hyrule-terminal.svg" alt="Hyrule System Terminal" />
