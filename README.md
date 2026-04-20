@@ -12,20 +12,13 @@ I work daily with **RHEL / Ubuntu**, **Kubernetes** (application deployment & op
 
 Recently deployed an **on-premise AI inference platform** on RHEL 9.7 — NVIDIA RTX 5090 with GPU passthrough on Podman, running self-hosted **Ollama + Open WebUI** in a fully air-gapped corporate environment.
 
-- 🏢 Currently @ **DEKRA** — Málaga, Spain
-- 🌍 **100% remote** · open to international relocation
-- 📚 Currently studying **LPIC-2** (renewal path from LPIC-1)
-- 🗣️ Spanish (native) · English (professional)
-
----
-
 ## ⚙️ Tech stack
 
 | Area | Technologies |
 |---|---|
 | **OS** | RHEL 7/8/9 · Ubuntu LTS · CentOS · Debian · openSUSE · HP-UX · Solaris |
-| **Containers** | Kubernetes · Docker · Podman · CoreOS |
-| **Virtualisation** | KVM · QEMU · VMware · Proxmox |
+| **Containers** | Kubernetes · Docker · Podman |
+| **Virtualisation** | VMware · Proxmox |
 | **Automation** | Ansible (playbooks & roles) · Bash · ksh · awk |
 | **CI/CD** | GitLab CI/CD · Bitbucket · Git |
 | **Cloud** | AWS · Azure |
