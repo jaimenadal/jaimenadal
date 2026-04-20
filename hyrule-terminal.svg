@@ -1,0 +1,124 @@
+<svg width="680" height="580" viewBox="0 0 680 580" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Hyrule System Terminal — jaimenadal hero profile</title>
+<desc>A Link to the Past styled terminal showing jaimenadal's hero profile with stats, weapons, and Triforce pieces</desc>
+
+<style>
+  text { font-family: 'Courier New', Courier, monospace; }
+  .bg   { fill: #080e06; }
+  .bdr  { fill: none; stroke: #3a6b2a; stroke-width: 2; }
+  .bar  { fill: #0f1a0c; }
+  .g1   { fill: #304828; }
+  .g2   { fill: #5a9e3a; }
+  .g3   { fill: #a8f060; }
+  .go   { fill: #f0d050; }
+  .pu   { fill: #9060c8; }
+  .rd   { fill: #e04040; }
+  .wh   { fill: #d8e8c0; }
+  .cy   { fill: #50c8a0; }
+  .dim  { fill: #2a4020; }
+</style>
+
+<!-- Background -->
+<rect width="680" height="580" fill="#080e06" rx="4"/>
+<rect width="680" height="580" fill="none" stroke="#3a6b2a" stroke-width="2" rx="4"/>
+
+<!-- Title bar -->
+<rect x="1" y="1" width="678" height="28" fill="#0f1a0c" rx="3"/>
+<rect x="1" y="25" width="678" height="3" fill="#3a6b2a"/>
+<circle cx="18" cy="14" r="5" fill="#8b1a1a"/>
+<circle cx="34" cy="14" r="5" fill="#8b6914"/>
+<circle cx="50" cy="14" r="5" fill="#1a5c1a"/>
+<text x="340" y="19" text-anchor="middle" font-size="11" fill="#3a6b2a" letter-spacing="3">HYRULE-CORE TERMINAL</text>
+
+<!-- Prompt line -->
+<text x="24" y="58" font-size="12" fill="#5a9e3a">[jaime@hyrule-core ~]$</text>
+<text x="198" y="58" font-size="12" fill="#a8f060"> load profile --hero jaimenadal</text>
+
+<!-- Loading lines -->
+<text x="24" y="78" font-size="12" fill="#304828">Authenticating with the Golden Power...</text>
+<text x="24" y="95" font-size="12" fill="#304828">Loading hero profile...</text>
+
+<!-- Progress bar -->
+<text x="24" y="114" font-size="12" fill="#f0d050">████████████████████████████████ 100%</text>
+
+<!-- Outer box -->
+<rect x="20" y="124" width="640" height="432" fill="none" stroke="#f0d050" stroke-width="1.5"/>
+
+<!-- Top border line -->
+<text x="24" y="140" font-size="12" fill="#f0d050">╠══════════════════════════════════════════════════════════════╣</text>
+
+<!-- HERO PROFILE title -->
+<text x="340" y="160" text-anchor="middle" font-size="13" fill="#d8e8c0" letter-spacing="4">HERO  PROFILE</text>
+
+<!-- Divider -->
+<text x="24" y="176" font-size="12" fill="#f0d050">╠══════════════════════════════════════════════════════════════╣</text>
+
+<!-- Profile fields -->
+<text x="36" y="196" font-size="12" fill="#5a9e3a">Name       :</text>
+<text x="148" y="196" font-size="12" fill="#a8f060"> jaimenadal</text>
+
+<text x="36" y="214" font-size="12" fill="#5a9e3a">Class      :</text>
+<text x="148" y="214" font-size="12" fill="#d8e8c0"> Linux SysAdmin · DevOps Engineer</text>
+
+<text x="36" y="232" font-size="12" fill="#5a9e3a">Affinity   :</text>
+<text x="148" y="232" font-size="12" fill="#d8e8c0"> Linux · Automation · Containers</text>
+
+<text x="36" y="250" font-size="12" fill="#5a9e3a">Realm      :</text>
+<text x="148" y="250" font-size="12" fill="#50c8a0"> Production</text>
+
+<text x="36" y="268" font-size="12" fill="#5a9e3a">Reputation :</text>
+<text x="148" y="268" font-size="12" fill="#f0d050"> ★ Trusted Operator</text>
+
+<text x="36" y="286" font-size="12" fill="#5a9e3a">Guild      :</text>
+<text x="148" y="286" font-size="12" fill="#d8e8c0"> DEKRA</text>
+
+<!-- Divider -->
+<text x="24" y="302" font-size="12" fill="#f0d050">╠══════════════════════════════════════════════════════════════╣</text>
+
+<!-- STATS -->
+<text x="36" y="322" font-size="12" fill="#5a9e3a">Health     :</text>
+<text x="148" y="322" font-size="12" fill="#e04040"> ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥</text>
+
+<text x="36" y="340" font-size="12" fill="#5a9e3a">Experience :</text>
+<text x="148" y="340" font-size="12" fill="#a8f060"> ████████████████████████</text>
+<text x="436" y="340" font-size="12" fill="#304828">░░░░</text>
+<text x="468" y="340" font-size="12" fill="#d8e8c0">  15 yrs</text>
+
+<text x="36" y="358" font-size="12" fill="#5a9e3a">Mana       :</text>
+<text x="148" y="358" font-size="12" fill="#9060c8"> ████████████████████████</text>
+<text x="436" y="358" font-size="12" fill="#d8e8c0">  100%</text>
+
+<text x="36" y="376" font-size="12" fill="#5a9e3a">Focus      :</text>
+<text x="148" y="376" font-size="12" fill="#f0d050"> ████████████████████████</text>
+<text x="436" y="376" font-size="12" fill="#d8e8c0">  100%</text>
+
+<!-- Divider -->
+<text x="24" y="392" font-size="12" fill="#f0d050">╠══════════════════════════════════════════════════════════════╣</text>
+
+<!-- EQUIPMENT -->
+<text x="36" y="412" font-size="12" fill="#5a9e3a">Weapons    :</text>
+<text x="148" y="412" font-size="12" fill="#a8f060"> Ansible · Bash · Podman · K8s</text>
+
+<text x="36" y="430" font-size="12" fill="#5a9e3a">Magic      :</text>
+<text x="148" y="430" font-size="12" fill="#9060c8"> Ollama · GPU Passthrough · IaC</text>
+
+<text x="36" y="448" font-size="12" fill="#5a9e3a">Shields    :</text>
+<text x="148" y="448" font-size="12" fill="#50c8a0"> ISO 27001 · CVE Remediation</text>
+
+<text x="36" y="466" font-size="12" fill="#5a9e3a">Relics     :</text>
+<text x="148" y="466" font-size="12" fill="#f0d050"> LPIC-1 ★  · LPIC-2 (crafting...)</text>
+
+<!-- Divider -->
+<text x="24" y="482" font-size="12" fill="#f0d050">╠══════════════════════════════════════════════════════════════╣</text>
+
+<!-- TRIFORCE -->
+<text x="36" y="502" font-size="12" fill="#5a9e3a">Triforce   :</text>
+<text x="148" y="502" font-size="12" fill="#f0d050"> ◈ Wisdom  ◈ Power  ◈ Automation</text>
+
+<!-- Bottom border -->
+<text x="24" y="520" font-size="12" fill="#f0d050">╚══════════════════════════════════════════════════════════════╝</text>
+
+<!-- Final prompt with cursor block -->
+<text x="24" y="554" font-size="12" fill="#5a9e3a">[jaime@hyrule-core ~]$</text>
+<rect x="198" y="542" width="8" height="14" fill="#a8f060"/>
+</svg>
