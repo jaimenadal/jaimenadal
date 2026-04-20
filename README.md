@@ -15,9 +15,7 @@ y pega este contenido en README.md
 ---
 
 ## 🥋 Ryo mode: enabled
-<p align="center">
-  <img src="https://tenor.com/vg48r43s5qD.gif" alt="Shenmue" />
-</p>
+![banner](tenor.gif)
 
 
 ```text
