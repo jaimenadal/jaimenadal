@@ -5,7 +5,7 @@ ej. jaimenadal / jaimenadal
 y pega este contenido en README.md
 -->
 
-<h1 align="center">Hi there, I'm Jaime Nadal López 👋</h1>
+<h1 align="center">Hi there, I'm Jaime 👋</h1>
 <h3 align="center">Linux SysAdmin · DevOps / Platform Engineer · Automation & Containers</h3>
 
 <p align="center">
