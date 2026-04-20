@@ -14,7 +14,7 @@ y pega este contenido en README.md
 
 ---
 
-## 🥋 Ryo mode: enabled
+## 🎮 Currently loading...
 ![banner](tenor.gif)
 
 
@@ -26,18 +26,10 @@ y pega este contenido en README.md
       ██║  ██║   ██║   ╚██████╔╝
       ╚═╝  ╚═╝   ╚═╝    ╚═════╝
 
-   "Keep moving forward. Automate what hurts.
-    Standardize what scales. Observe what matters."
+  "Discipline beats noise.
+   Good systems beat heroics.
+   Automation turns effort into scale."
 ```
-
-
-<h1 align="center">Jaime Nadal López</h1>
-<h3 align="center">Linux SysAdmin · DevOps / Platform Engineer</h3>
-
-<p align="center">
-Enterprise Linux · Automation · Containers · Kubernetes · CI/CD · Cloud · AI/GPU Workloads
-</p>
-
 ---
 
 ## 🚀 About me
@@ -217,9 +209,3 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 </p>
 
 ---
-
-## 💬 Motto
-
-> *"Discipline beats noise.*
-> *Good systems beat heroics.*
-> *Automation turns effort into scale."*
