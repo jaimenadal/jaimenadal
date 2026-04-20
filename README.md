@@ -177,6 +177,12 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 
 ---
 
+## 🐍 Hyrule Terminal
+
+<p align="center">
+  <img src="hyrule-terminal.svg" alt="Hyrule System Terminal" />
+</p>
+
 ## 📌 What I usually work on
 
 - Linux system administration and troubleshooting
@@ -202,10 +208,6 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 
 ---
 
-## 🐍 Contribution snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaimenadal/jaimenadal/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
