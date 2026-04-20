@@ -87,7 +87,6 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/CoreOS-5E6AD2?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
 </p>
 
@@ -95,7 +94,6 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 
 <p>
   <img src="https://img.shields.io/badge/KVM-005F87?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
