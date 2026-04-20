@@ -177,9 +177,11 @@ I also work with GPU-enabled Linux workloads, including NVIDIA drivers on RHEL, 
 
 ---
 
-## 🐍 Hyrule Terminal
+<p align="left">
+  <img src="fea433432ea9a98.webp" width="32" height="32" alt="Link sprite" />
+</p>
 
-<p align="center">
+<p align="left">
   <img src="hyrule-terminal.svg" alt="Hyrule System Terminal" />
 </p>
 
